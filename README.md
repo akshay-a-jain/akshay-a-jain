@@ -17,7 +17,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 - 🔭 Currently working as a **Delivery Consultant at IBM India**
 - 🌱 Currently exploring **Platform Engineering, GitOps & Cloud Native Technologies**
 - 💬 Ask me about **AWS, Azure, Kubernetes, OpenShift, Docker, Terraform, Jenkins, Linux, Python & CI/CD**
-- 📍 Bangalore, India 🇮🇳
+- 📍 Bengaluru, India 🇮🇳
 - ⚡ Fun Fact: *If it can be automated, it should be automated.*
 
 ---
@@ -34,7 +34,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 
 ## 🏆 Certifications
 
-- 🏅 AWS Certified Solutions Architect – Associate
+- 🏅 AWS Certified Solutions Architect – Associate (SAA-C03)
 - 🏅 Microsoft Certified Azure Administrator (AZ-104)
 - 🏅 Microsoft Certified Azure Fundamentals (AZ-900)
 - 🏅 Red Hat Certified OpenShift Administrator (EX280)
@@ -55,7 +55,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 ---
 
 ### 🟧 L&T Technology Services
-**Engineer – MediaKind Solutions**  
+**Engineer – Media Kind Solutions**  
 📅 **Jul 2023 – Jul 2024**
 
 - ☁️ Managed large-scale **OTT/IPTV** infrastructure
