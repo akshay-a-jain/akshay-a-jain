@@ -34,6 +34,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 
 ## 🏆 Certifications
 
+- 🏅 Executive Post Graduate Certification in Cloud Computing and DevOps, iHUB DivyaSampark @ IIT Roorkee
 - 🏅 AWS Certified Solutions Architect – Associate (SAA-C03)
 - 🏅 Microsoft Certified Azure Administrator (AZ-104)
 - 🏅 Microsoft Certified Azure Fundamentals (AZ-900)
