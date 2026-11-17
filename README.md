@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay A Jain</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enthusiast
+Cloud & DevOps Professional | AWS | Azure | Kubernetes | Terraform | Automation Enthusiast | Generative AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AWS+%26+Azure+Specialist;Kubernetes+Enthusiast;Terraform+Expert;Always+Learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Engineer;AWS+%26+Azure+Specialist;Kubernetes+Enthusiast;Terraform+Expert;Generative+AI;Always+Learning..." />
 </p>
 
 ---
@@ -16,7 +16,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 - 🚀 Passionate about Cloud Automation, Platform Engineering & Infrastructure as Code
 - 🔭 Currently working as a **Delivery Consultant at IBM India**
 - 🌱 Currently exploring **Platform Engineering, GitOps & Cloud Native Technologies**
-- 💬 Ask me about **AWS, Azure, Kubernetes, OpenShift, Docker, Terraform, Jenkins, Linux, Python & CI/CD**
+- 💬 Ask me about **AWS, Azure, Kubernetes, OpenShift, Docker, Terraform, CI/CD, Linux, Python, Generative AI and GitOps**
 - 📍 Bengaluru, India 🇮🇳
 - ⚡ Fun Fact: *If it can be automated, it should be automated.*
 
@@ -35,10 +35,11 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 ## 🏆 Certifications
 
 - 🏅 Executive Post Graduate Certification in Cloud Computing and DevOps, iHUB DivyaSampark @ IIT Roorkee
+- 🏅 HashiCorp Certified Terraform Associate (004)
 - 🏅 AWS Certified Solutions Architect – Associate (SAA-C03)
+- 🏅 Red Hat Certified OpenShift Administrator (EX280)
 - 🏅 Microsoft Certified Azure Administrator (AZ-104)
 - 🏅 Microsoft Certified Azure Fundamentals (AZ-900)
-- 🏅 Red Hat Certified OpenShift Administrator (EX280)
 
 ---
 
@@ -77,14 +78,13 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 
 ---
 
-## 🚀 Current Focus
+## 🤖 Generative AI & Current Focus
 
-- ☸ Kubernetes Platform Engineering
-- ☁️ Multi-Cloud Architecture
+- 🤖 AI-assisted infrastructure automation and intelligent troubleshooting.
+- 📊 Intelligent monitoring, incident analysis and AIOps.
 - ⚙️ Infrastructure as Code
-- 🚀 CI/CD Automation
-- 📦 GitOps
-- 🤖 AI-assisted DevOps Workflows
+- ☸️ Kubernetes Platform Engineering and GitOps.
+- ☁️ Multi-Cloud Architecture and Cloud-Native Technologies.
 
 ---
 
@@ -110,6 +110,6 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Automation Enth
 
 <p align="center">
 
-### ⭐ *"Designing resilient cloud platforms through automation, scalability, and continuous innovation."*
+### ⭐ *"Designing resilient cloud platforms through AI Automation, Scalability, and Continuous Innovation."*
 
 </p>
